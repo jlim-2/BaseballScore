@@ -8,6 +8,14 @@ public class MainActivity extends AppCompatActivity {
     Button strike;
     Button ball;
     Button out;
+    Button walk;
+    Button error;
+    Button strikeout;
+    Button flyout;
+    Button single;
+    Button bdouble;
+    Button triple;
+    Button homerun;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
